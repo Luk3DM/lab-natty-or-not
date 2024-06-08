@@ -34,5 +34,8 @@ Acessamos o site Vidnoz AI, uma plataforma especializada na criação de avatare
 ### Engajamento e Apresentação:
 * A utilização de um avatar digital realista gerou um maior engajamento durante a apresentação do desafio, destacando o potencial de IA na criação de conteúdos interativos e personalizados.
 
+## Link para o vídeo:
+
+[Assista o Vídeo](https://github.com/Luk3DM/lab-natty-or-not/blob/main/Desafio%20DIO.mp4)
 ## 💭 Reflexão (Opcional)
 Este projeto exemplificou com sucesso a capacidade de tecnologias de inteligência artificial em criar avatares digitais realistas e gerar vídeos personalizados. A plataforma Vidnoz AI provou ser uma ferramenta eficaz para esse propósito, permitindo a criação de conteúdos de alta qualidade que podem ser aplicados em diversos contextos. A integração dessa tecnologia no desafio DIO "Fake or Natty" destacou seu potencial de aplicação em campanhas de marketing, apresentações educativas e outros usos inovadores.
