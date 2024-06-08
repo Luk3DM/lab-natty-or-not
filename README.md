@@ -1,5 +1,5 @@
 # Fake or Natty?
-[[Desafio DIO.mp4]]
+
 ## 📒 Descrição
 Descrição do Projeto de Inteligência Artificial: Criação de Avatar com Vídeo Gerado por IA
 
